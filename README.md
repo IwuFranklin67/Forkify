@@ -2,7 +2,7 @@
 
 Recipe application with custom recipe uploads.
 
-### Available search queries:
+## Available search queries
 
 - carrot
 - broccoli
